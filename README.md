@@ -95,7 +95,7 @@ A **Raspberry Pi powered antenna tracker** that automatically aligns an antenna 
 # 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-url" target="_blank">
+  <a href="https://linkedin.com/in/[your-linkedin-url](https://www.linkedin.com/in/shantanu-soni-b679a01b1?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your-email@example.com">
